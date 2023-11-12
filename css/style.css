@@ -1,0 +1,178 @@
+.list{
+    list-style-type: none;
+}
+button{
+    cursor: pointer;
+}
+.topbutton{
+    background-color: #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+    text-align: left;
+    color:#FFFFFF;
+}
+.topbutton:hover,
+.topbutton:focus{
+    background-color: #404BBF;
+}
+.link{
+    text-decoration: none;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+/* Header navigation */
+.logo{
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#2E2F42;
+}
+.first-logo{
+font-size: 18px;
+font-weight: 700;
+font-style: normal;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color:#4D5AE5;
+}
+.menu-link{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color:#2E2F42;
+}
+.menu-link:hover,
+.menu-link:focus{
+    color: #404BBF;
+}
+.contacts{
+    font-style: normal;
+}
+.contacts-link{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color:#434455;
+}
+.contacts-link:hover,
+.contacts-link:focus{
+    color: #404BBF;
+}
+/* Main content */
+.first-section{
+    background-color: #2E2F42;
+}
+.title{
+font-size: 56px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+}
+/* about */
+.desc-item{
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2E2F42;
+}
+.desc-text{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #434455;
+}
+/* our team */
+.team-title{
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}
+.team-link{
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+color:#2E2F42;
+}
+.team-text{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+/* our portfolio */
+.portfolio-title{
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2E2F42;
+}
+.portfolio-link{
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #2E2F42;
+}
+.portfolio-text{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #434455;
+}
+/* footer */
+.down{
+    background-color:#2E2F42;
+}
+.down-logo{
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #F4F4FD;
+}
+.second-logo{
+font-size: 18px;
+font-weight: 700;
+font-style: normal;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #4D5AE5;
+}
+.down-text{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #F4F4FD;
+}
